@@ -119,3 +119,11 @@ html, body{
 .contact p, .about p{
     margin-bottom: 20px;
 }
+
+footer{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
