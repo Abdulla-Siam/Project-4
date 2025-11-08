@@ -11,3 +11,30 @@ html, body{
     font-weight: 300;
     font-family: "Roboto", sans-serif;
 }
+
+.container{
+    background-image: url(images/developer.png);
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.content{
+    color: #0FB1BD;
+    margin: 0 auto;
+    max-width: 900px;
+    padding-top: 64px;
+    padding-left: 16px;
+}
+
+.txt{
+    font-size: 70px;
+    font-weight: 400;
+}
+
+.text{
+    font-size: 70px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
