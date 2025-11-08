@@ -38,3 +38,21 @@ html, body{
     font-weight: 400;
     text-transform: uppercase;
 }
+
+.box{
+    padding: 20px;
+    background-color: black;
+}
+
+.box h2{
+    color: white;
+    font-size: 70px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.lrg{
+    font-size: 90px;
+    font-weight: 400;
+}
